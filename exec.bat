@@ -1,0 +1,1 @@
+postgrest postgrest.conf
